@@ -5,7 +5,7 @@
 
 ## 💫 About Me:
 
-🔭 I’m currently working on getting my bachelor degree in computer science after the covid hiatus.<br>💬 Ask me about my obsessions and my roleplaying addiction.<br> <br>⚡ Fun fact: I did a Spanish Inquisition cosplay. Yeah, you DID NOT expect that.
+🔭 I’m currently working on getting my bachelor degree in computer science after the covid hiatus.<br>💬 Ask me about my obsessions and my roleplaying addiction.<br>⚡ Fun fact: I did a Spanish Inquisition cosplay. Yeah, you DID NOT expect that.
 
 ## 💻 Tech Stack:
 
