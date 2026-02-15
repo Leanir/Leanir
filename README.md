@@ -2,14 +2,17 @@
 
 <!-- Base template was created using GPRM, see below for the original comment and link to the platform that came with the template -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Profile Image by <a href="https://pixabay.com/users/kingsinnphotography-42619797/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9821326">KingsInnPhotography</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=9821326">Pixabay</a>
 
 ## 💫 About Me:
 
-🔭 I’m currently working on getting my bachelor degree in computer science after the covid hiatus.<br>💬 Ask me about my obsessions and my roleplaying addiction.<br>⚡ Fun fact: I did a Spanish Inquisition cosplay. Yeah, you DID NOT expect that.
+- I’m currently working on getting my bachelor degree in computer science after the long covid hiatus.
+- You can always ask me about my obsessions and my tabletop-roleplaying addiction.
+- Fun fact: I did a Spanish Inquisition cosplay. Yeah, you DID NOT expect that.
 
 ## 💻 Tech Stack:
 
-You are probably more interested in these lists if you are looking here. I update them every time I learn something new and feel confident enough to work with it, although more studying or a refresher may be needed for some of them.
+You are probably more interested in these lists if you are coming here from my CV. I update them every time I learn something new and feel confident enough to work with it, although more studying or a refresher may be needed for some of them.
 
 > I use [![Arch Linux](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=fff)](#) btw
 >
@@ -71,7 +74,7 @@ Game engines
 [![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)](#)
 [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)](#)
 
-Platforms I often browse
+Extra: Platforms I often browse
 
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](#)
 [![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=flat-square&logo=HumbleBundle&logoColor=white)](#)
