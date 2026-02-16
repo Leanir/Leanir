@@ -44,7 +44,7 @@ Mark(up|down)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=fff)](#)
 [![TOML](https://img.shields.io/badge/TOML-9C4121?style=flat-square&logo=toml&logoColor=fff)](#)
 
-Frameworks, libraries and others I use to support to code
+Frameworks, libraries and others I use in support to code
 
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)](#)
 [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)](#)
