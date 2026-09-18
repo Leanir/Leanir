@@ -10,7 +10,7 @@ Profile Image by <a href="https://pixabay.com/users/kingsinnphotography-42619797
 - You can always ask me about my obsessions and my tabletop-roleplaying addiction.
 - Fun fact: I did a Spanish Inquisition cosplay. Yeah, you DID NOT expect that.
 
-## 💻 Tech Stack:
+## 💻 Tech Stack -- TO BE UPDATED
 
 You are probably more interested in these lists if you are coming here from my CV. I update them every time I learn something new and feel confident enough to work with it, although more studying or a refresher may be needed for some of them.
 
@@ -79,6 +79,39 @@ Extra: Platforms I often browse
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white)](#)
 [![Humble Bundle](https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=flat-square&logo=HumbleBundle&logoColor=white)](#)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=flat-square&logo=Itch.io&logoColor=white)](#)
+
+## My view on AI, LLMs, Agents and generative what-not
+At some point in my career, I felt forced to use AI tools to satisfy expectations.
+As time went on, I feel confident enough to admit I am more open to it now.
+I always prefer local models (when possible) for important stuff and sensible information.
+
+### Web search
+I use AI tools as a "glorified web search" mostly because internet has become a pain to browse.
+Ads everywhere, cookies, pay-to-view content even if information is present elsewhere for the public to see.
+Jumping from site to site just to read non-standardized text with lots of unnecessary content, this is very painful and counterproductive.
+
+Give them your research objective/target, make them give you a brief description of each source (abstract and conclusion for papers), maybe bring up the thesis for each source and evaluate if any of them conflicts with one another. Then, read the most relevant informations and move on.
+
+### Agentic coding
+I was skeptical at first, unsure of my own opinion on the matter.
+
+On one hand, I still dislike being reliant on something else writing code on my behalf.
+On the other hand, this is not so different from copy-pasting from stack overflow or any other forum with sparse information.
+
+What I do like about it though:
+- I can actually think at a higher level of abstraction, looking at the whole system rather than specializing in a single component of a project
+- I can still write code by myself and ask for immediate feedback rather than waiting for a reviewer.
+- I can still visualize what the agent is doing and ask what it did when not understanding, I even catch agents' errors from time to time!
+- I can define what success looks like, and define strict decisions and specifications to follow
+
+### AI art
+- AI images and videos: can be fun enough when not taken too seriously, in a non-commercial usecase. Not a big fan otherwise, pay an artist if you make an ad or whatever you do to make money.
+- AI writing: code can be tested, if it runs and does what you expect then it works; writing does not work that way.
+    - Brainstorming: can be alright, as long as your brain does most of the work
+    - Check grammar: there are other tools, but sure go for it
+    - Adapt for a specific reader target: accessibility is good to achieve, LLMs can be a powerful accessibility tool
+    - Reader feedback: very useful, instead of bothering 3 or 4 friends to read your stuff and possibly await days.
+- Any low-effort AI use: I hate that
 
 ## 📫 How to reach me:
 Please contact me strictly by [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:leandrogozzo@hotmail.it) unless we personally know each other.
