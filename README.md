@@ -90,7 +90,7 @@ I use AI tools as a "glorified web search" mostly because internet has become a 
 Ads everywhere, cookies, pay-to-view content even if information is present elsewhere for the public to see.
 Jumping from site to site just to read non-standardized text with lots of unnecessary content, this is very painful and counterproductive.
 
-Give them your research objective/target, make them give you a brief description of each source (abstract and conclusion for papers), maybe bring up the thesis for each source and evaluate if any of them conflicts with one another. Then, read the most relevant informations and move on.
+Give them your research objective/target, make them give you a brief description of each source (abstract and conclusion for papers), maybe bring up the thesis for each source and evaluate if any of them conflicts with one another. Then, read the most relevant informations (deepening with reading the sources) and move on.
 
 ### Agentic coding
 I was skeptical at first, unsure of my own opinion on the matter.
